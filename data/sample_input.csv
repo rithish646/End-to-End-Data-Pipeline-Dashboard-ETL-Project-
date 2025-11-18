@@ -1,0 +1,4 @@
+order_date,product,region,quantity,unit_price
+2025-01-01,Widget A,North,10,9.99
+2025-01-02,Widget B,South,5,19.50
+2025-01-03,Widget A,East,2,9.99
